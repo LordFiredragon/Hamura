@@ -1,0 +1,380 @@
+{
+  "name": "IP Trackers ASN Directory",
+  "description": "Curated list of notable Autonomous System Numbers (ASNs) with category, region, and short summary. Free to use with attribution.",
+  "source": "https://www.ip-trackers.com/asn",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseName": "Creative Commons Attribution 4.0 International",
+  "attribution": "Data: https://www.ip-trackers.com ASN directory",
+  "updated": "2026-03-24",
+  "count": 52,
+  "formats": {
+    "json": "https://www.ip-trackers.com/api/asn-directory",
+    "csv": "https://www.ip-trackers.com/api/asn-directory/csv"
+  },
+  "entries": [
+    {
+      "asn": 701,
+      "name": "Verizon Business",
+      "category": "Backbone",
+      "region": "North America",
+      "summary": "Enterprise and transit backbone with broad North American reach."
+    },
+    {
+      "asn": 1273,
+      "name": "Vodafone",
+      "category": "Mobile ISP",
+      "region": "Europe",
+      "summary": "Major mobile and fixed network operator in multiple EU markets."
+    },
+    {
+      "asn": 1299,
+      "name": "Arelion (formerly Telia Carrier)",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "Global IP transit provider with extensive international peering."
+    },
+    {
+      "asn": 174,
+      "name": "Cogent Communications",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "Large internet transit network used by carriers and data centers."
+    },
+    {
+      "asn": 2856,
+      "name": "BT (British Telecommunications)",
+      "category": "Residential ISP",
+      "region": "United Kingdom",
+      "summary": "Major UK broadband and enterprise connectivity provider."
+    },
+    {
+      "asn": 2914,
+      "name": "NTT Communications",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "Tier-1 style backbone used for global transit and enterprise routing."
+    },
+    {
+      "asn": 3215,
+      "name": "Orange",
+      "category": "Backbone",
+      "region": "Europe",
+      "summary": "Major European operator with backbone, enterprise, and mobile services."
+    },
+    {
+      "asn": 3216,
+      "name": "VEON",
+      "category": "Mobile ISP",
+      "region": "Europe & Asia",
+      "summary": "Mobile-focused operator group serving multiple regional markets."
+    },
+    {
+      "asn": 3257,
+      "name": "GTT Communications",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "Global transit and enterprise network operator."
+    },
+    {
+      "asn": 3269,
+      "name": "Telecom Italia Sparkle / TIM",
+      "category": "Backbone",
+      "region": "Europe",
+      "summary": "International backbone and wholesale connectivity network."
+    },
+    {
+      "asn": 3320,
+      "name": "Deutsche Telekom",
+      "category": "Residential ISP",
+      "region": "Europe",
+      "summary": "Large EU broadband and mobile operator with major network footprint."
+    },
+    {
+      "asn": 3356,
+      "name": "Lumen (Level 3)",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "High-scale backbone and transit operator frequently seen in traceroutes."
+    },
+    {
+      "asn": 3491,
+      "name": "PCCW Global",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "International backbone with broad Asia and global interconnectivity."
+    },
+    {
+      "asn": 4134,
+      "name": "China Telecom",
+      "category": "Residential ISP",
+      "region": "China",
+      "summary": "Large state carrier with significant domestic and international routes."
+    },
+    {
+      "asn": 4713,
+      "name": "NTT Communications (Japan)",
+      "category": "Backbone",
+      "region": "Japan",
+      "summary": "Regional core network frequently observed in APAC routing paths."
+    },
+    {
+      "asn": 4766,
+      "name": "KT Corp",
+      "category": "Residential ISP",
+      "region": "South Korea",
+      "summary": "National fixed and mobile provider with dense metro infrastructure."
+    },
+    {
+      "asn": 4837,
+      "name": "China Unicom",
+      "category": "Residential ISP",
+      "region": "China",
+      "summary": "Large Chinese carrier with substantial domestic and cross-border routes."
+    },
+    {
+      "asn": 5089,
+      "name": "Virgin Media O2",
+      "category": "Residential ISP",
+      "region": "United Kingdom",
+      "summary": "Consumer broadband and mobile operator with broad UK coverage."
+    },
+    {
+      "asn": 5511,
+      "name": "Orange",
+      "category": "Backbone",
+      "region": "Europe",
+      "summary": "International-facing ASN used for carrier and enterprise traffic."
+    },
+    {
+      "asn": 5607,
+      "name": "Sky UK",
+      "category": "Residential ISP",
+      "region": "United Kingdom",
+      "summary": "Consumer broadband operator with nationwide UK user footprint."
+    },
+    {
+      "asn": 5650,
+      "name": "Frontier Communications",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "US residential broadband ASN seen in fixed-line access and regional routing paths."
+    },
+    {
+      "asn": 6128,
+      "name": "Optimum / Altice USA",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "US cable ISP commonly seen in residential IP lookups."
+    },
+    {
+      "asn": 6453,
+      "name": "Tata Communications",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "Large global transit ASN used by carriers and enterprise platforms."
+    },
+    {
+      "asn": 6762,
+      "name": "Telecom Italia Sparkle",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "Global transport and peering network operated by Sparkle."
+    },
+    {
+      "asn": 6939,
+      "name": "Hurricane Electric",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "Large transit and IPv6-focused operator with extensive peering."
+    },
+    {
+      "asn": 7018,
+      "name": "AT&T Services",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "Major US fixed and enterprise network footprint."
+    },
+    {
+      "asn": 7473,
+      "name": "Singtel",
+      "category": "Residential ISP",
+      "region": "Singapore",
+      "summary": "Major ISP and carrier network across Singapore and APAC."
+    },
+    {
+      "asn": 7922,
+      "name": "Comcast Cable",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "One of the largest US broadband ASNs for residential access."
+    },
+    {
+      "asn": 7992,
+      "name": "Comcast Business Communications",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "US cable network ASN used across business and regional broadband infrastructure."
+    },
+    {
+      "asn": 8075,
+      "name": "Microsoft Corporation",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Large cloud and platform ASN used across Microsoft services."
+    },
+    {
+      "asn": 9009,
+      "name": "M247",
+      "category": "Backbone",
+      "region": "Global",
+      "summary": "Hosting and transit-heavy ASN frequently seen in infrastructure traces."
+    },
+    {
+      "asn": 9808,
+      "name": "China Mobile",
+      "category": "Mobile ISP",
+      "region": "China",
+      "summary": "Large mobile network with significant subscriber and IP footprint."
+    },
+    {
+      "asn": 11426,
+      "name": "Charter Communications",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "Major US cable network supporting residential and business users."
+    },
+    {
+      "asn": 12322,
+      "name": "Free SAS",
+      "category": "Residential ISP",
+      "region": "France",
+      "summary": "French broadband and mobile ISP with consumer-focused access networks."
+    },
+    {
+      "asn": 12389,
+      "name": "Rostelecom",
+      "category": "Residential ISP",
+      "region": "Russia",
+      "summary": "Large regional telecom provider with broad national coverage."
+    },
+    {
+      "asn": 13335,
+      "name": "Cloudflare",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Anycast-heavy CDN and security network frequently seen in DNS and HTTP."
+    },
+    {
+      "asn": 14061,
+      "name": "DigitalOcean",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Developer cloud platform ASN used for VPS and managed workloads."
+    },
+    {
+      "asn": 14618,
+      "name": "Amazon (AWS)",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Core AWS ASN powering EC2, managed services, and cloud infrastructure."
+    },
+    {
+      "asn": 15169,
+      "name": "Google",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Major internet ASN used by Google services and cloud products."
+    },
+    {
+      "asn": 16276,
+      "name": "OVH",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Large European hosting and cloud infrastructure ASN."
+    },
+    {
+      "asn": 16509,
+      "name": "Amazon (AWS)",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Large AWS network ASN serving cloud workloads worldwide."
+    },
+    {
+      "asn": 16591,
+      "name": "Google Fiber",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "Google Fiber access-network ASN used for consumer broadband delivery."
+    },
+    {
+      "asn": 20057,
+      "name": "AT&T Mobility",
+      "category": "Mobile ISP",
+      "region": "United States",
+      "summary": "US mobile broadband ASN used for handset and wireless traffic."
+    },
+    {
+      "asn": 20940,
+      "name": "Akamai",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Global CDN and edge delivery ASN with broad caching footprint."
+    },
+    {
+      "asn": 21928,
+      "name": "T-Mobile USA",
+      "category": "Mobile ISP",
+      "region": "United States",
+      "summary": "Major US mobile carrier ASN for handset and 5G data traffic."
+    },
+    {
+      "asn": 22394,
+      "name": "Cellco Partnership (Verizon Wireless)",
+      "category": "Mobile ISP",
+      "region": "United States",
+      "summary": "US mobile ASN commonly seen for wireless subscriber IPs."
+    },
+    {
+      "asn": 22773,
+      "name": "Cox Communications",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "US cable ISP ASN used for broadband and residential access."
+    },
+    {
+      "asn": 24940,
+      "name": "Hetzner",
+      "category": "Cloud & CDN",
+      "region": "Europe",
+      "summary": "European hosting ASN used by dedicated and cloud infrastructure."
+    },
+    {
+      "asn": 30036,
+      "name": "Mediacom Communications",
+      "category": "Residential ISP",
+      "region": "United States",
+      "summary": "US cable ISP ASN commonly seen in residential and metro broadband routes."
+    },
+    {
+      "asn": 32934,
+      "name": "Meta Platforms",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Large social platform ASN used by Meta-owned applications."
+    },
+    {
+      "asn": 54113,
+      "name": "Fastly",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Edge cloud/CDN ASN used for low-latency application delivery."
+    },
+    {
+      "asn": 63949,
+      "name": "Linode (Akamai Connected Cloud)",
+      "category": "Cloud & CDN",
+      "region": "Global",
+      "summary": "Developer cloud ASN for VPS and infrastructure workloads."
+    }
+  ]
+}
